@@ -3,7 +3,7 @@
 &nbsp;<br>
 &nbsp;<br>
 
-![Alt text](https://github.com/huambra/Taisuki-Sales-Dashboard/blob/master/taisuki-logo.png)
+![Alt text](https://github.com/huambra/Olist-Data-Science-Classification-Project/blob/master/olist_office.jpg)
 
 
 ## Table of Contents
