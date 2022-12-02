@@ -18,7 +18,7 @@
 ## Project Description
 This project was my capstone project for my Data Science course in CoderHouse. We used public data from a Brazilian startup -Olist- which is a marketplace and logistics facilitator for small and medium enterprises operating in Mexico and Brazil. Our goal was to create a model able to predict customer’s reviews based on the data we had available. 
 
-## Requiriments
+## Requirements
 1. Software
     - [Anaconda](https://www.anaconda.com/)
     - [Python v3](https://www.python.org/)
@@ -44,14 +44,14 @@ This project was my capstone project for my Data Science course in CoderHouse. W
 ## Usage
 1. Make sure to have installed the required software, as well as all the necessary frameworks and libraries
 2. Clone or download the repo as a zip file.
-3. Paste the 9 data .csv files inside the folder you'll be working
+3. Paste all the 9 data .csv files inside the folder
 4. Run Jupyter Notebook, browse to the folder location, and open the .ipybn files. First open the Olist.ipynb file, followed by Olist_ECommerce_Models.ipybn. 
 
 ## Content Description
-- Proyecto_Olist.pdf: Full Project Documentation (ESP)
-- olist.ipynb: Code used to understand the data and to prepare it for the models
-- Olist_ECommerce_Models: Code of the models used
-- Regiones.csv: File of regions in Brazil (necessary to run the code)
+- **Proyecto_Olist.pdf:** Full Project Documentation (ESP)
+- **olist.ipynb:** Code used to understand the data and to prepare it for the models
+- **Olist_ECommerce_Models:** Code of the models used
+- **Regiones.csv:** File of regions in Brazil (necessary to run the code)
 
 ## Actions
 The first thing we did was to understand the project requirements and from where we should access the data to help us develop the model. 
